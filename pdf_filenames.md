@@ -16,6 +16,7 @@
 - Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation
 - Improving Automatic Source Code
 - RAGAs
+- RAGCHECKER A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
 - AUTODETECT Towards a Unified Framework for Automated Weakness
 - The Earth is Flat because... Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation
 - 40_chatdev_communicative_agents_f
