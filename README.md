@@ -1,21 +1,33 @@
 # awesome-paper
+
 ## A repository for great paper across various domain.
 
 We are a group of students who have just begun our research careers. These articles are a collection that we found helpful after reading, and we hope they can be of assistance to everyone.
-
 # PDF 文件列表
 
+- Attention Is All You Need
+- BERT
+- Computing machinery and intelligence
+- Deep learning
+- Deep Residual Learning for Image Recognition
+- Deep_Residual_Learning_CVPR_2016_paper
+- GPT2
+- ImageNet
+- BattleAgentBench A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems
 - CONFLICTBANK A Benchmark for Evaluating Knowledge Conflicts in Large Language Models
 - CToolEval A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions
 - Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 - SportsMetrics
 - Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation
 - Improving Automatic Source Code
+- EvaluLLM LLM Assisted Evaluation of Generative Outputs
+- Length-Controlled AlpacaEval A Simple Way to Debias Automatic Evaluators
 - RAGAs
+- RAGCHECKER A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
 - AUTODETECT Towards a Unified Framework for Automated Weakness
 - The Earth is Flat because... Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation
-- （已压缩）AUTODETECT Towards a Unified Framework for Automated Weakness
 - 40_chatdev_communicative_agents_f
+- A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration
 - A Survey on Evaluation of Large Language Models
 - A Survey on Self-Evolution of Large Language Models
 - AgentScope A Flexible yet Robust Multi-Agent Platform
@@ -42,6 +54,7 @@ We are a group of students who have just begun our research careers. These artic
 - Hypothetical Minds
 - Improving Diversity of Commonsense Generation
 - INTERNET OF AGENTS
+- Into the Unknown Unknowns Engaged Human Learning through Participation in Language Model Agent Conversations
 - Iterative Experience Refinement of Software-Developing Agents
 - Language Models are Few-Shot Learners
 - LLM-BLENDER
@@ -73,11 +86,12 @@ We are a group of students who have just begun our research careers. These artic
 - Exploring Large Language Models for Communication Games
 - ODYSSEY Empowering Agents with Open World Skills
 - Uncovering the Strategic Reasoning Limitations of
+- EHRAgent_Code_Empowers_Lar
+- MAKING PRETRAINED LANGUAGE MODELS GREAT ON TABULAR PREDICTION
 - Do Language Models Enjoy Their Own Stories
 - Generating Reasonable and Diversified Story Ending
 - Improving Diversity of Commonsense Generation by
-- EHRAgent_Code_Empowers_Lar
-- MAKING PRETRAINED LANGUAGE MODELS GREAT ON TABULAR PREDICTION
+- LLM-BASED MULTI-AGENT POETRY GENERATION IN NON-COOPERATIVE ENVIRONMENTS
 - AgentCoord multi agent collaboration
 - Cooperate or Collapse
 - Cooperation and Punishment in Public Goods Experiments
@@ -89,25 +103,8 @@ We are a group of students who have just begun our research careers. These artic
 - MiniCPM
 - SAM2
 - ULTRAFEEDBACK Boosting Language Models with Scaled AI Feedback
+- LENGTH DESENSITIZATION IN DIRECTED PREFERENCE OPTIMIZATION
 - DPO-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference
 - MINPROMPT
 - KAN
-- Autonomous Agents for Collaborative Task under Information Asymmetry
-- ChatDev
-- Experiential Co-Learning of Software-Developing Agents
-- Iterative Experience Refinement of Software-Developing Agents
-- Multi-Agent Software Development through Cross-Team Collaboration
-- Scaling Large-Language-Model-based Multi-Agent Collaboration 
 - Proportional Aggregation of Preferences for Sequential Decision Making
-- Proportional Aggregation of Preferences for Sequential Decision Making
-- kdd-QGRL
-- Large Language Models Are Not Robust Multiple Choice Selectors
-- PIBD
-- Attention Is All You Need
-- BERT
-- Computing machinery and intelligence
-- Deep learning
-- Deep Residual Learning for Image Recognition
-- Deep_Residual_Learning_CVPR_2016_paper
-- GPT2
-- ImageNet
