@@ -15,6 +15,8 @@
 - SportsMetrics
 - Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation
 - Improving Automatic Source Code
+- EvaluLLM LLM Assisted Evaluation of Generative Outputs
+- Length-Controlled AlpacaEval A Simple Way to Debias Automatic Evaluators
 - RAGAs
 - RAGCHECKER A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
 - AUTODETECT Towards a Unified Framework for Automated Weakness
@@ -96,6 +98,7 @@
 - MiniCPM
 - SAM2
 - ULTRAFEEDBACK Boosting Language Models with Scaled AI Feedback
+- LENGTH DESENSITIZATION IN DIRECTED PREFERENCE OPTIMIZATION
 - DPO-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference
 - MINPROMPT
 - KAN
