@@ -18,12 +18,14 @@ We are a group of students who have just begun our research careers. These artic
 - CToolEval A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions
 - Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 - SportsMetrics
+- Chain of Code Reasoning with a Language Model-Augmented Code Emulator
 - Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation
 - Improving Automatic Source Code
 - EvaluLLM LLM Assisted Evaluation of Generative Outputs
 - Length-Controlled AlpacaEval A Simple Way to Debias Automatic Evaluators
 - RAGAs
 - RAGCHECKER A Fine-grained Framework for Diagnosing Retrieval-Augmented Generation
+- Towards Evaluating and Building Versatile Large Language Models for Medicine
 - AUTODETECT Towards a Unified Framework for Automated Weakness
 - The Earth is Flat because... Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation
 - 40_chatdev_communicative_agents_f
@@ -74,6 +76,7 @@ We are a group of students who have just begun our research careers. These artic
 - Self Organized Agents
 - Self-collaboration Code Generation via ChatGPT
 - Tell me more
+- Think-on-Process Dynamic Process Generation for Collaborative Development of Multi-Agent System
 - Two Tales of Persona in LLMs- A Survey of Role-Playing and Personalization
 - Adaptive Collaboration Strategy for LLMs in Medical Decision Making
 - Agent Hospital- A Simulacrum of Hospital with Evolvable Medical Agents
@@ -108,4 +111,5 @@ We are a group of students who have just begun our research careers. These artic
 - MINPROMPT
 - KAN
 - Proportional Aggregation of Preferences for Sequential Decision Making
-## Total paper number: 103
+- Writing AI Conference Papers A Handbook for Beginners
+## Total paper number: 107
