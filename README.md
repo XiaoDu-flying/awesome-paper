@@ -84,7 +84,12 @@ We are a group of students who have just begun our research careers. These artic
 - Large language models in medicine
 - MedAgents- Large Language Models as Collaborators for Zero-shot Medical Reasoning
 - MEDICAL GRAPH RAG TOWARDS SAFE MEDICAL
+- Roleplay-doh Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles
 - Towards Multimodal Surgical Assistant via Structured Surgical Video Learning
+- Medical Education - 2009 - McGaghie - A critical review of simulation%E2%80%90based medical education research  2003 2009
+- Overview-of-standardized-pat
+- Standardized Patient Encounters A Method for Teaching and Evaluation
+- The Benefits and Risks of Being a Standardized Patient A Narrative Review of the Literature
 - Evaluating LLMs Playing
 - Exploring Large Language Models for Communication Games
 - ODYSSEY Empowering Agents with Open World Skills
@@ -112,4 +117,4 @@ We are a group of students who have just begun our research careers. These artic
 - KAN
 - Proportional Aggregation of Preferences for Sequential Decision Making
 - Writing AI Conference Papers A Handbook for Beginners
-## Total paper number: 107
+## Total paper number: 112
