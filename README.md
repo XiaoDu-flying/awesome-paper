@@ -111,10 +111,13 @@ We are a group of students who have just begun our research careers. These artic
 - MiniCPM
 - SAM2
 - ULTRAFEEDBACK Boosting Language Models with Scaled AI Feedback
+- HDFLOW ENHANCING LLM COMPLEX PROBLEM-SOLVING WITH HYBRID THINKING AND DYNAMIC WORKFLOWS
+- TOT-tree-of-thoughts-deliberate-problem-solving-with-large-language-models-Paper-Conference
 - LENGTH DESENSITIZATION IN DIRECTED PREFERENCE OPTIMIZATION
+- Are Language Models Actually Useful for Time Series Forecasting
 - DPO-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference
 - MINPROMPT
 - KAN
 - Proportional Aggregation of Preferences for Sequential Decision Making
 - Writing AI Conference Papers A Handbook for Beginners
-## Total paper number: 112
+## Total paper number: 115
