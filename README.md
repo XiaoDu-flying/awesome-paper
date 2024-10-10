@@ -28,6 +28,7 @@ We are a group of students who have just begun our research careers. These artic
 - Towards Evaluating and Building Versatile Large Language Models for Medicine
 - AUTODETECT Towards a Unified Framework for Automated Weakness
 - The Earth is Flat because... Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation
+- Turn Every Application into an Agent Towards Efficient Human-Agent-Computer Interaction with API-First LLM-Based Agents
 - 40_chatdev_communicative_agents_f
 - A Dynamic LLM-Powered Agent Network for Task-Oriented Agent Collaboration
 - A Survey on Evaluation of Large Language Models
@@ -80,16 +81,19 @@ We are a group of students who have just begun our research careers. These artic
 - Two Tales of Persona in LLMs- A Survey of Role-Playing and Personalization
 - Adaptive Collaboration Strategy for LLMs in Medical Decision Making
 - Agent Hospital- A Simulacrum of Hospital with Evolvable Medical Agents
+- AIPatient Simulating Patients with EHRs and LLM Powered Agentic Workflow
 - Empowering Biomedical Discovery with AI Agents
 - Large language models in medicine
 - MedAgents- Large Language Models as Collaborators for Zero-shot Medical Reasoning
 - MEDICAL GRAPH RAG TOWARDS SAFE MEDICAL
 - Roleplay-doh Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles
+- Towards a Client-Centered Assessment of LLM Therapists by Client Simulation
 - Towards Multimodal Surgical Assistant via Structured Surgical Video Learning
 - Medical Education - 2009 - McGaghie - A critical review of simulation%E2%80%90based medical education research  2003 2009
 - Overview-of-standardized-pat
 - Standardized Patient Encounters A Method for Teaching and Evaluation
 - The Benefits and Risks of Being a Standardized Patient A Narrative Review of the Literature
+- Virtual Patient Simulation at U.S. and Canadian Medical Schools
 - Evaluating LLMs Playing
 - Exploring Large Language Models for Communication Games
 - ODYSSEY Empowering Agents with Open World Skills
@@ -111,6 +115,7 @@ We are a group of students who have just begun our research careers. These artic
 - MiniCPM
 - SAM2
 - ULTRAFEEDBACK Boosting Language Models with Scaled AI Feedback
+- A Survey on Multimodal Large Language Models
 - HDFLOW ENHANCING LLM COMPLEX PROBLEM-SOLVING WITH HYBRID THINKING AND DYNAMIC WORKFLOWS
 - TOT-tree-of-thoughts-deliberate-problem-solving-with-large-language-models-Paper-Conference
 - LENGTH DESENSITIZATION IN DIRECTED PREFERENCE OPTIMIZATION
@@ -118,6 +123,7 @@ We are a group of students who have just begun our research careers. These artic
 - DPO-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference
 - MINPROMPT
 - KAN
+- Mamba Linear-Time Sequence Modeling with Selective State Spaces
 - Proportional Aggregation of Preferences for Sequential Decision Making
 - Writing AI Conference Papers A Handbook for Beginners
-## Total paper number: 115
+## Total paper number: 121
