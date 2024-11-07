@@ -13,14 +13,18 @@ We are a group of students who have just begun our research careers. These artic
 - Deep_Residual_Learning_CVPR_2016_paper
 - GPT2
 - ImageNet
+- Autonomous Agents for Collaborative Task under Information Asymmetry_camera_ready
 - BattleAgentBench A Benchmark for Evaluating Cooperation and Competition Capabilities of Language Models in Multi-Agent Systems
 - CONFLICTBANK A Benchmark for Evaluating Knowledge Conflicts in Large Language Models
 - CToolEval A Chinese Benchmark for LLM-Powered Agent Evaluation in Real-World API Interactions
 - Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 - SportsMetrics
+- Cognition _ A review of OpenAI o1 and how we evaluate coding agents
 - Chain of Code Reasoning with a Language Model-Augmented Code Emulator
 - Enhancing Code Translation in Language Models with Few-Shot Learning via Retrieval-Augmented Generation
 - Improving Automatic Source Code
+- SELF-EVOLVING MULTI-AGENT COLLABORATION NETWORKS FOR SOFTWARE DEVELOPMENT
+- Agent-as-a-Judge Evaluate Agents with Agents
 - EvaluLLM LLM Assisted Evaluation of Generative Outputs
 - Length-Controlled AlpacaEval A Simple Way to Debias Automatic Evaluators
 - RAGAs
@@ -40,6 +44,7 @@ We are a group of students who have just begun our research careers. These artic
 - Attention Is All You Need
 - AutoGen
 - Autonomous Agents for Collaborative Task under Information Asymmetry
+- Autonomous Agents for Collaborative Task under Information Asymmetry_camera_ready
 - BEYOND HUMAN TRANSLATION
 - camel
 - Chain-of-thought
@@ -116,9 +121,12 @@ We are a group of students who have just begun our research careers. These artic
 - SAM2
 - ULTRAFEEDBACK Boosting Language Models with Scaled AI Feedback
 - A Survey on Multimodal Large Language Models
+- Graph of Thoughts Solving Elaborate Problems with Large Language Models
 - HDFLOW ENHANCING LLM COMPLEX PROBLEM-SOLVING WITH HYBRID THINKING AND DYNAMIC WORKFLOWS
+- PRACT Optimizing Principled Reasoning and Acting of LLM Agent
 - TOT-tree-of-thoughts-deliberate-problem-solving-with-large-language-models-Paper-Conference
 - LENGTH DESENSITIZATION IN DIRECTED PREFERENCE OPTIMIZATION
+- Decoding Echo Chambers LLM-Powered Simulations Revealing Polarization in Social Networks
 - Are Language Models Actually Useful for Time Series Forecasting
 - DPO-2023-direct-preference-optimization-your-language-model-is-secretly-a-reward-model-Paper-Conference
 - MINPROMPT
@@ -126,4 +134,4 @@ We are a group of students who have just begun our research careers. These artic
 - Mamba Linear-Time Sequence Modeling with Selective State Spaces
 - Proportional Aggregation of Preferences for Sequential Decision Making
 - Writing AI Conference Papers A Handbook for Beginners
-## Total paper number: 121
+## Total paper number: 130
