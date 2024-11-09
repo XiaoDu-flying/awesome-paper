@@ -6,7 +6,8 @@
 
 ## A repository for great paper across various domain in LLMs.
 
-We are a group of students who have just begun our research careers. These articles are a collection that we found helpful after reading, and we hope they can be of assistance to everyone.
+*"We are a group of students who have just begun our research careers. These articles are a collection that we found helpful after reading, and we hope they can be of assistance to everyone."*
+
 # Paper List
 
 - A Comprehensive Survey of Retrieval-Augmented Generation (RAG) Evolution, Current Landscape and Future Directions
