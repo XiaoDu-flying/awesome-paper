@@ -146,7 +146,7 @@
 ⭐" **Join us in improving this repository!**"
 ### Contributors
 
-<a href="https://github.com/Xiaodu-flying/awsome-paper/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Xiaodu-flying/awsome-paper" />
+<a href="https://github.com/Xiaodu-flying/awesome-paper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Xiaodu-flying/awesome-paper" />
 </a>
             
