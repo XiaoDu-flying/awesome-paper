@@ -142,3 +142,11 @@
 - Virtual Patient Simulation at U.S. and Canadian Medical Schools
 - Writing AI Conference Papers A Handbook for Beginners
 ## Total paper number: 131
+
+⭐" **Join us in improving this repository!**"
+### Contributors
+
+<a href="https://github.com/Xiaodu-flying/awsome-paper/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Xiaodu-flying/awsome-paper" />
+</a>
+            
