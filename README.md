@@ -1,3 +1,7 @@
+
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/XiaoDu-flying/awesome-paper)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+![](https://img.shields.io/github/last-commit/XiaoDu-flying/awesome-paper?color=green)
 # awesome-paper
 
 ## A repository for great paper across various domain in LLMs.
