@@ -88,12 +88,14 @@
 - Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena
 - KAN
 - Knowledge Editing for Large Language Models A Survey
+- Language Agents Foundations, Prospects, and Risks
 - Language Models are Few-Shot Learners
 - Large language models in medicine
 - LENGTH DESENSITIZATION IN DIRECTED PREFERENCE OPTIMIZATION
 - Length-Controlled AlpacaEval A Simple Way to Debias Automatic Evaluators
 - LLM-BASED MULTI-AGENT POETRY GENERATION IN NON-COOPERATIVE ENVIRONMENTS
 - LLM-BLENDER
+- LLM-empowered Chatbots for Psychiatrist and Patient Simulation Application and Evaluation
 - Make Your LLM Fully Utilize the Context
 - MAKING PRETRAINED LANGUAGE MODELS GREAT ON TABULAR PREDICTION
 - Mamba Linear-Time Sequence Modeling with Selective State Spaces
@@ -141,7 +143,7 @@
 - Uncovering the Strategic Reasoning Limitations of
 - Virtual Patient Simulation at U.S. and Canadian Medical Schools
 - Writing AI Conference Papers A Handbook for Beginners
-## Total paper number: 131
+## Total paper number: 133
 
 ⭐" **Join us in improving this repository!**"
 ### Contributors
